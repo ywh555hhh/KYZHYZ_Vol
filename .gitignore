@@ -4,3 +4,7 @@
 *.pdf
 __pycache__/
 .history
+
+# Generated temporary files
+scripts/generate-doc/chapter_jsons/
+scripts/generate-doc/vocabulary_markdown/
