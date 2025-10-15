@@ -1,0 +1,32 @@
+| 序号 | 词频 | 单词 | 释义 | 其他拼写  | 熟悉度(0/1/2) |
+| --- | --- | --- | --- | --- | --- |
+| 5501 | 0 | tanker | 油轮 | None  |   |
+| 5502 | 0 | Thanksgiving | 感恩节 | None  |   |
+| 5503 | 0 | them | 他们 | None  |   |
+| 5504 | 0 | thigh | 大腿 | None  |   |
+| 5505 | 0 | thorn | 刺 | None  |   |
+| 5506 | 0 | Thursday | 星期四 | None  |   |
+| 5507 | 0 | topic | 话题 | None  |   |
+| 5508 | 0 | towel | 毛巾 | None  |   |
+| 5509 | 0 | trousers | 裤子 | None  |   |
+| 5510 | 0 | Tuesday | 星期二 | None  |   |
+| 5511 | 0 | typhoon | 台风 | None  |   |
+| 5512 | 0 | underlying | 潜在的 | None  |   |
+| 5513 | 0 | up-to-date | 最新的 | None  |   |
+| 5514 | 0 | us | 我们 | None  |   |
+| 5515 | 0 | used | 二手的 | None  |   |
+| 5516 | 0 | vein | 静脉 | None  |   |
+| 5517 | 0 | velvet | 天鹅绒 | None  |   |
+| 5518 | 0 | vinegar | 醋 | None  |   |
+| 5519 | 0 | waken | 醒来、唤醒 | None  |   |
+| 5520 | 0 | Wednesday | 星期三 | None  |   |
+| 5521 | 0 | well-known | 众所周知的 | None  |   |
+| 5522 | 0 | wicked | 邪恶的 | None  |   |
+| 5523 | 0 | wink | 眨眼 | None  |   |
+| 5524 | 0 | worse | 更坏、更坏的 | None  |   |
+| 5525 | 0 | worst | 最坏、最坏的 | None  |   |
+| 5526 | 0 | X-ray | X射线 | None  |   |
+| 5527 | 0 | yours | 你的 | None  |   |
+| 5528 | 0 | yourselves | 你们自己 | None  |   |
+| 5529 | 0 | zigzag | 曲折、之字形 | None  |   |
+| 5530 | 0 | zoom | 飞驰、急剧上涨 | None  |   |
